@@ -31,12 +31,12 @@ $ npm run dev
 Ouvrir votre navigateur et aller à l’adresse : http://localhost:8080
 
 ## Annexe
-Vous pouvez afficher les donnés (en format json) de la base avec l’adresse : localhost:8080/api/v1/todos
+Vous pouvez afficher les donnés (en format json) de la base avec l’adresse : http://localhost:8081/api/v1/todos
 
 ## Authors
 
 * **Ghislain Dugat** - *Lead dev*
-* **Renaud Jumbou** - * React*
-* **Nicholas Liynage** - * Node*
+* **Renaud Jumbou** - *React*
+* **Nicholas Liynage** - *Node*
 * **Vincent Paris** - *Tests unitaires*
 
