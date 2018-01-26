@@ -2,7 +2,7 @@
 
 Développement d’une todolist en Node.js et React
 
-### Prerequisites
+### Prerequis
 Avoir Docker d’installé sur la machine
 
 ## Mise en route de la base de donnée mongo via un container Docker 
