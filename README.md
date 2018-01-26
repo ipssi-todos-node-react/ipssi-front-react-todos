@@ -45,5 +45,5 @@ Vous pouvez afficher les donnés (en format json) de la base avec l’adresse : 
 * **Ghislain Dugat** - *Lead dev*
 * **Renaud Jumbou** - *React*
 * **Nicholas Liynage** - *Node*
-* **Vincent Paris** - *Tests unitaires*
+* **Vincent Paris** - *Tests unitaires/Designer*
 
