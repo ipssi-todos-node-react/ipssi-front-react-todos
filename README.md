@@ -3,7 +3,8 @@
 Développement d’une todolist en Node.js et React
 
 ### Prerequis
-Avoir Docker d’installé sur la machine
+Docker
+Node.Js
 
 ## Mise en route de la base de donnée mongo via un container Docker 
 Dans le terminal
@@ -17,7 +18,7 @@ Ouvrir un autre onglet du terminal
 $ git clone https://github.com/ipssi-todos/ipssi-todos
 $ cd ipssi-todos/Node
 $ npm install
-$ npm run prod
+$ npm run start
 ```
 
 ## Mise en route du frontend React
