@@ -1,4 +1,4 @@
-# ipssi-todos
+# projet-ipssi-todos
 
 Développement d’une todolist en Node.js et React
 
@@ -33,7 +33,7 @@ Ouvrir votre navigateur et aller à l’adresse : http://localhost:8080
 ## Annexe
 Vous pouvez afficher les donnés (en format json) de la base avec l’adresse : http://localhost:8081/api/v1/todos
 
-## Authors
+## Equipe
 
 * **Ghislain Dugat** - *Lead dev*
 * **Renaud Jumbou** - *React*
