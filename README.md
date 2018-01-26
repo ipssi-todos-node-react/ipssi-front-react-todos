@@ -30,6 +30,13 @@ $ npm run dev
 ```
 Ouvrir votre navigateur et aller à l’adresse : http://localhost:8080
 
+## Tests
+Ouvrir un autre onglet du terminal
+```
+$ cd ipssi-todos/Node
+$ npm run test
+```
+
 ## Annexe
 Vous pouvez afficher les donnés (en format json) de la base avec l’adresse : http://localhost:8081/api/v1/todos
 
