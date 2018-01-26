@@ -17,12 +17,10 @@ export default class Todos extends React.Component {
 
     componentWillMount() {
         TodoStore.on("receive_todo", this.getTodos);
-        // TodoStore.on("create_todo", this.addTodo);
     }
 
     componentWillUnmount() {
         TodoStore.removeListener("receive_todo", this.getTodos);
-        // TodoStore.removeListener("create_todo", this.getTodos);
     }
 
     getTodos() {
@@ -30,11 +28,6 @@ export default class Todos extends React.Component {
             todos: TodoStore.getAll(),
         });
     }
-
-    // addTodo(todo){
-    //     ul.add(<Todo key={todo.id} {...todo}/>);
-    //     console.log(todo);
-    // }
 
     render() {
         const { todos } = this.state;
